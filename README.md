@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Faisal Khan
 
 💻 **Full-Stack Developer | MERN Stack | Firebase | Java Enthusiast**
 
@@ -28,11 +28,5 @@ I love turning ideas into interactive digital experiences.
 
 ---
 
-### 📫 Connect With Me
-- Portfolio: [yourportfolio.dev](#)  
-- LinkedIn: [linkedin.com/in/yourname](#)  
-- Email: yourname@email.com  
-
----
 
 ⭐ *“Code is like art — you craft it, refine it, and share it with the world.”*
