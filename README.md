@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Faisal Khan<br><br>💻 **Full-Stack Web Developer | MERN Stack | Next.js | Java**<br><br>I am a passionate and results-driven **Full-Stack Developer** with a strong focus on building **scalable, performant, and user-centric web applications**. I enjoy transforming ideas into clean, efficient, and maintainable code while continuously learning modern technologies and best practices.<br><br>I thrive in problem-solving environments, love collaborating on meaningful projects, and aim to deliver impactful digital solutions.<br>
+### 👋 Hi, I'm Faisal Khan<br><br>💻 **Full-Stack Web Developer | MERN Stack | Next.js | Java**<br><br>I am a passionate and results-driven **Full-Stack Developer** with a strong focus on building **scalable, performant, and user-centric web applications**. I enjoy transforming ideas into clean, efficient, and maintainable code while continuously learning modern technologies and best practices.<br><br>I thrive in problem-solving environments, love collaborating on meaningful projects, and aim to deliver impactful digital solutions.<br>
 
 
 ## 🌐 Socials:
